@@ -1,6 +1,6 @@
 {
   "name": "localinclude",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Add a fragment of local code into any page on the web.",
   "main": "./lib/index.js",
   "dependencies": {
