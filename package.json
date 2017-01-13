@@ -1,0 +1,21 @@
+{
+  "name": "localinclude",
+  "version": "0.0.1",
+  "description": "Add a fragment of local code into any page on the web.",
+  "main": "./lib/index.js",
+  "dependencies": {
+    "cheerio": "0.13.1",
+    "express": "latest",
+    "curlrequest": "latest",
+    "command-line-args": "latest"
+  },
+  "bin": {
+    "localinclude": "bin/localinclude.js"
+  },
+  "scripts": {
+    "test": "localinclude"
+  },
+  "author": "Tom Maslen",
+  "license": "Apache-2.0",
+  "preferGlobal": "true"
+}
