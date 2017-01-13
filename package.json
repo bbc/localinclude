@@ -15,7 +15,14 @@
   "scripts": {
     "test": "localinclude"
   },
-  "author": "Tom Maslen",
+  "contributors": [{
+    "name": "Tom Maslen",
+    "email": "tom_maslen@hotmail.com"
+  },
   "license": "Apache-2.0",
-  "preferGlobal": "true"
+  "preferGlobal": "true",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bbc/localinclude"
+  },
 }
